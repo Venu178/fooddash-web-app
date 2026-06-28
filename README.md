@@ -23,4 +23,6 @@ A vibrant, multi-colored grid layout featuring active promotional codes:
 ### 5. "How It Works" & Footer Architecture
 * **Onboarding Steps:** 3-step breakdown (Browse & Search → Add to Cart → Get Delivered).
 * **Footer:** 3-column corporate links structure (Company, Support, and Legal) along with social media anchors.
+## 6.outcome
 ![FoodDash Landing Page](Home-page.jpeg)
+![FoodDash Landing Page](login-page.jpeg)
